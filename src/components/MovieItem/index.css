@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.image {
+  height: 150px;
+}
+.slider-item {
+  align-self: center;
+  display: flex;
+}
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  height: 100%;
+  background-color: white;
+  padding: 20px;
+}
+.cancel-icon {
+  align-self: flex-end;
+  border-width: 0px;
+  background-color: transparent;
+  border-color: white;
+}

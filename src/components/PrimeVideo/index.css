@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.slider-main-container {
+  background-color: black;
+  min-height: 130vh;
+  max-height: 1000vh;
+}
+.prime-image-container {
+  height: 30vh;
+}
+.prime-video {
+  height: 30vh;
+  width: 100%;
+}
+.slider-container {
+  padding: 40px;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: white;
+}
